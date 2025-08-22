@@ -1,4 +1,4 @@
-# 비건 저당 찹쌀떡 (2배 분량, 무설탕 버전)
+# 비건 저당 찹쌀떡 (팥 500g 기준, 무설탕 버전)
 
 ## 감미료 대체 가이드
 A. 설탕 대신 **발효 스테비아**와 **나한과**를 사용한다.  
@@ -10,68 +10,54 @@ E. 비율:
 2) 찹쌀 반죽 → 발효 스테비아 70% + 나한과 30%  
 
 ## 팥앙금
-A. 붉은팥: 400g (불리면 약 800g)  
-B. 물: 2L 이상  
-C. 발효 스테비아: 12-15g (단맛의 60%)  
-D. 나한과: 8-10g (단맛의 40%)  
-E. 소금: 2꼬집  
+- 붉은팥: **500g (불리면 약 1kg)**  
+- 물: 2.5L 이상  
+- 발효 스테비아: **15–19g (단맛의 60%)**  
+- 나한과: **10–13g (단맛의 40%)**  
+- 소금: 2꼬집  
 
 참고: 끓일 때 물기를 줄여 농도를 맞추고, 단맛은 취향에 따라 가감한다.  
 
 ## 찹쌀 반죽
-A. 찹쌀 (쌀알): 400g (불리면 약 600g)  
-B. 물: 밥솥에서 찹쌀밥 짓는 정도  
-C. 발효 스테비아: 3-4g (단맛의 70%)  
-D. 나한과: 1-2g (단맛의 30%)  
-E. 전분 대체 가루 (볶은 쌀가루/밀가루): 적당량 (작업대와 손에 묻히기용)  
+- 찹쌀 (쌀알): **500g (불리면 약 750g)**  
+- 물: 밥솥에서 찹쌀밥 짓는 정도  
+- 발효 스테비아: **4–5g (단맛의 70%)**  
+- 나한과: **1.5–2g (단맛의 30%)**  
+- 전분 대체 가루 (볶은 쌀가루/밀가루): 적당량 (작업대와 손에 묻히기용)  
 
 ## 성형
-1) 반죽을 8-12등분 (각각 약 40-50g)  
-2) 앙코 25-30g 넣어 감싸기  
+1) 반죽을 10–15등분 (각각 약 50g)  
+2) 앙코 30–35g 넣어 감싸기  
 3) 대체 가루 묻혀 완성  
 
 ## 참고
+- **500g 팥 1팩 기준**으로 조리하면 딱 맞음.  
+- 더 달게 원하면 발효 스테비아/나한과를 10% 정도 더해도 무방.  
 - 전통 설탕 버전보다 단맛이 가볍고 산뜻하다.  
-- 발효 스테비아의 깔끔함과 나한과의 깊은 단맛이 어우러져 건강한 디저트로 적합하다.  
-- 비건, 건강 지향 식단에 잘 맞는다.  
-
+- 비건, 건강 지향 식단에 적합하다.  
 
 ---
 
-# Vegan Healthy Daifuku (Double Batch, Sugar-Free Version)
+# Vegan Low-Sugar Chapsaltteok (Based on 500g Red Beans, Sugar-Free Version)
 
 ## Sweetener Guide
-A. Instead of sugar, use **fermented stevia + monk fruit**.  
-B. Fermented stevia: clean sweetness, no bitterness.  
-C. Monk fruit: natural deep sweetness with herbal notes.  
-D. Lower preservative effect compared to sugar → best eaten the same day.  
-E. Ratios:
-   1) Red bean paste: stevia 60% + monk fruit 40%  
-   2) Mochi dough: stevia 70% + monk fruit 30%  
+A. Replace sugar with **fermented stevia** and **monk fruit**.  
+B. Fermented stevia: almost no bitterness, provides a clean sweetness.  
+C. Monk fruit: mild herbal aroma with deep sweetness, pairs well with red bean paste.  
+D. Lower preservability compared to sugar, so **consume on the same day**.  
+E. Ratios:  
+1) Red bean paste → 60% stevia + 40% monk fruit  
+2) Glutinous rice dough → 70% stevia + 30% monk fruit  
 
 ## Red Bean Paste
-A. Red beans: 400 g (about 800 g after soaking)  
-B. Water: at least 2 L  
-C. Fermented stevia: 12–15 g (≈ 60% of total sweetness)  
-D. Monk fruit: 8–10 g (≈ 40% of total sweetness)  
-E. Salt: 2 pinches  
+- Red beans: **500g (about 1kg after soaking)**  
+- Water: at least 2.5L  
+- Fermented stevia: **15–19g (60% of sweetness)**  
+- Monk fruit: **10–13g (40% of sweetness)**  
+- Salt: 2 pinches  
 
-*Notes: Reduce water while cooking to adjust consistency. Sweetness can be adjusted to taste.*
+Note: Adjust consistency by reducing water while simmering; adjust sweetness to taste.  
 
-## Mochi Dough
-A. Glutinous rice (whole grain): 400 g (about 600 g after soaking)  
-B. Water: amount for cooking glutinous rice in a rice cooker  
-C. Fermented stevia: 3–4 g (≈ 70% of total sweetness)  
-D. Monk fruit: 1–2 g (≈ 30% of total sweetness)  
-E. Alternative coating powder (roasted rice flour or wheat flour): enough for handling dough  
-
-## Assembly
-1) Divide dough into 8–12 pieces (40–50 g each).  
-2) Place 25–30 g of red bean paste in the center.  
-3) Wrap and seal.  
-4) Roll lightly in coating powder and serve.  
-
-## Notes
-- The flavor is lighter and fresher than traditional sugar-based daifuku.  
-- Best suited for vegan and health-conscious diets.  
-- Consume the same day for best texture.  
+## Glutinous Rice Dough
+- Glutinous rice (whole grain): **500g (about 750g after soaking)**  
+- W
