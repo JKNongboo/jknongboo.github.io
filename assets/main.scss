@@ -1,0 +1,51 @@
+---
+---
+// 1) 기본 테마 불러오기
+@import "minima";
+
+// 2) 한글 가독성 개선 폰트 로드
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600&display=swap");
+
+// 3) 전체 한글 페이지에 적용
+html {
+  /* 한글 우선 폰트 체계 (영문에도 무해) */
+  font-family: "Noto Sans KR", system-ui, -apple-system, "Segoe UI",
+               "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+}
+
+/* 본문 전반 행간/글꼴 크기 */
+body {
+  line-height: 1.8;        /* 한글 행간 넉넉하게 */
+}
+
+.page-content {
+  font-size: 18px;         /* 본문 글자 약간 키우기 */
+  max-width: 780px;        /* 한 줄 길이 과도하지 않게 */
+}
+
+/* 문단 간 여백 */
+.post-content p {
+  margin: 0 0 1em 0;
+  word-break: keep-all;    /* 한글 단어 중간 줄바꿈 방지 */
+}
+
+/* 리스트 간격 */
+.post-content li {
+  margin: 0.35em 0;
+}
+
+/* 제목 행간/여백 */
+.post-title,
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  line-height: 1.35;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+}
+
+/* 코드/프리포맷은 본문 행간 영향을 최소화 */
+pre, code {
+  line-height: 1.5;
+  font-size: 0.95em;
+}
